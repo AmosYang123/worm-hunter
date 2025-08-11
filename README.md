@@ -1,27 +1,27 @@
-# 🐍 NEON SNAKE - Arcade Classic
+# 🐛 WORM HUNTER - Arcade Classic
 
-A modern, beautiful take on the classic Snake game built with Next.js, TypeScript, and stunning neon effects.
+A modern, beautiful take on the classic worm hunting game built with Next.js, TypeScript, and stunning effects.
 
 ## ✨ Features
 
 - **Smooth 60fps gameplay** with requestAnimationFrame
 - **Beautiful neon aesthetics** with glowing effects and gradients
 - **Responsive design** that works on desktop, tablet, and mobile
-- **Progressive difficulty** - snake speeds up as you score more points
+- **Progressive difficulty** - worm speeds up as you score more points
 - **Custom game over overlay** with smooth animations
 - **TypeScript** for type safety and better development experience
 
 ## 🎮 How to Play
 
 1. Click "Start Game" to begin
-2. Use **arrow keys** to control the snake
+2. Use **arrow keys** to control the worm
 3. Eat the **golden food** to grow and score points
 4. Avoid hitting the walls or yourself
 5. Try to get the highest score possible!
 
 ## 🚀 Live Demo
 
-Play the game online: [NEON SNAKE](https://neonsnake.vercel.app)
+Play the game online: [WORM HUNTER](https://worm-hunter.vercel.app)
 
 ## 🛠️ Tech Stack
 
@@ -35,7 +35,7 @@ Play the game online: [NEON SNAKE](https://neonsnake.vercel.app)
 
 - **Gradient backgrounds** with glassmorphism effects
 - **Glowing neon title** with animated text shadows
-- **Smooth snake animations** with gradient bodies
+- **Smooth worm animations** with gradient bodies
 - **Pulsing golden food** with glow effects
 - **Professional game over overlay** with backdrop blur
 
@@ -57,8 +57,8 @@ The game adapts perfectly to any screen size:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/neon-snake.git
-cd neon-snake
+git clone https://github.com/AmosYang123/worm-hunter.git
+cd worm-hunter
 ```
 
 2. Install dependencies:
@@ -107,4 +107,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-**Enjoy playing NEON SNAKE!** 🐍✨
+**Enjoy playing WORM HUNTER!** 🐛✨

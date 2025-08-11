@@ -5,8 +5,8 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Neon Snake - Arcade Classic',
-  description: 'A modern take on the classic Snake game with neon effects',
+  title: 'WORM HUNTER - Arcade Classic',
+  description: 'A modern take on the classic worm hunting game with stunning effects',
 }
 
 export default function RootLayout({

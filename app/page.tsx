@@ -296,7 +296,7 @@ export default function Home() {
 
   return (
     <div className="game-container">
-      <h1>🐍 NEON SNAKE 🐍</h1>
+      <h1>🐛 WORM HUNTER 🐛</h1>
       <div className="subtitle">Arcade Classic</div>
       <div className="score">Score: {gameState.score}</div>
       <canvas
